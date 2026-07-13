@@ -1,0 +1,6 @@
+{
+  "name": "CIISIC Platform",
+  "description": "CII Industry-Institute Collaboration Platform - connecting Indian industry, researchers, and academic institutions to solve real-world challenges.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
